@@ -1,0 +1,80 @@
+
+
+
+.sp{
+    position: relative;
+  top: 150px;
+  left: 150px;
+}
+.sp1{
+    position: relative;
+    top: 150px;
+}
+button{
+    position: relative;
+   left:503px;
+   top: 220px;
+}
+.fan{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    left: 310px;
+}
+.headings{
+    color: white;
+    position: relative;
+    top: 120px;
+    left: 120px;
+
+}
+.headings1{
+    color: white;
+    position: relative;
+    top: 120px;
+    left: 290px;
+
+}
+@media screen and (max-width: 991px)
+{
+   
+    .headings{
+        color: white;
+        position: relative;
+        top: 120px;
+        left: 150px;
+    
+    }
+    .sp1{
+        position: relative;
+        top: 140px;
+        left: 10px;
+    }
+    .headings1{
+        color: white;
+        position: relative;
+        top: 50px;
+        left: 170px;
+    
+    }
+    .sp{
+        position: relative;
+      top: 65px;
+      left: 10px;
+    }
+    button{
+        position: relative;
+       left:95px;
+       top: 225px;
+    }
+    .fan{
+        color: white;
+        
+        position: relative;
+        top: 200px;
+        left: 29px; 
+    }
+    
+   
+}
